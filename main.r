@@ -1,0 +1,5 @@
+# source('merge_indiv.r', echo=FALSE)
+# source('process_indiv.r', echo=FALSE)
+# source('merge_comm.r', echo=FALSE)
+# source('process_comm.r', echo=FALSE)
+source('analyse.r', echo=FALSE)
